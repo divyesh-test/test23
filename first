@@ -1,1 +1,8 @@
 123
+
+this is second line edited from vim
+
+edit: file is staged by using git add . now current step is editing this text in file.
+
+
+second
